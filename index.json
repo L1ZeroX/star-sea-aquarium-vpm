@@ -145,6 +145,26 @@
           },
           "url": "https://raw.githubusercontent.com/L1ZeroX/star-sea-aquarium-vpm/main/com.l1zerox.starseaaquarium-1.18.1.zip",
           "zipSHA256": "01803bffab239dfccb5424891dca8ee8cd33cb0627755d68ff04ed9ccb5e5ad3"
+        },
+        "1.18.2": {
+          "name": "com.l1zerox.starseaaquarium",
+          "displayName": "星海水槽 (Star Sea Aquarium)",
+          "version": "1.18.2",
+          "unity": "2022.3",
+          "description": "VRChatワールドに設置できる、プレイヤーごとの放置育成水槽。星海水槽の旧版から設置済みPrefabと育成記録を引き継ぎます。",
+          "author": {
+            "name": "L1ZeroX",
+            "email": "60348988+L1ZeroX@users.noreply.github.com"
+          },
+          "vpmDependencies": {
+            "com.vrchat.worlds": ">=3.10.1 <4.0.0"
+          },
+          "dependencies": {
+            "com.unity.textmeshpro": "3.0.6",
+            "com.unity.ugui": "1.0.0"
+          },
+          "url": "https://raw.githubusercontent.com/L1ZeroX/star-sea-aquarium-vpm/main/com.l1zerox.starseaaquarium-1.18.2.zip",
+          "zipSHA256": "367ec51c057a1430449eab12850ba0436a5ce741302f74c4f64d496a3640c761"
         }
       }
     }
