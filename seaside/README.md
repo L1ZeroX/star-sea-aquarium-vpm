@@ -4,14 +4,14 @@
 
 | 端末 | ダウンロード |
 | --- | --- |
-| Android 8.0以降 | [星海の浜辺 1.6.1 APK](https://raw.githubusercontent.com/L1ZeroX/star-sea-aquarium-vpm/main/seaside/StarSea-Seaside.apk) |
-| Windows | [PC同期ツール・APK・使い方 1.6.1 ZIP](https://raw.githubusercontent.com/L1ZeroX/star-sea-aquarium-vpm/main/seaside/StarSea-PC-Android.zip) |
+| Android 8.0以降 | [星海の浜辺 1.6.2 APK](https://raw.githubusercontent.com/L1ZeroX/star-sea-aquarium-vpm/main/seaside/StarSea-Seaside.apk) |
+| Windows | [PC同期ツール・APK・使い方 1.6.2 ZIP](https://raw.githubusercontent.com/L1ZeroX/star-sea-aquarium-vpm/main/seaside/StarSea-PC-Android.zip) |
 
 ## 外出先同期
 
 1. ZIPを展開して `StarSea-Sync.exe` を開き、**外出先同期 → 有効にして連携QRを表示**を選びます。
 2. Androidのカメラで自分のPCの連携QRを読み、**連携する**を押します。
-3. PC版VRChatで更新済みのPloom RooMに入り、水槽の **引き継ぎ → スマホアプリ → 自動同期：オフ** を一度押してオンにします。入室時と進行の保存時に、自分の魚・残高・探索隊の閲覧用データがPCのVRChatログに書き出されます。PCツールを開いておくと暗号化して送り、スマホは起動時と表示中の約15秒ごとに確認します。自動同期は同じボタンで停止できます。
+3. PC版VRChatで更新済みのPloom RooMに入り、水槽の **引き継ぎ → スマホアプリ → 自動同期：オフ** を一度押してオンにします。入室時と進行の保存時に、自分の魚・残高・探索隊の閲覧用データがPCのVRChatログに書き出されます。PCツールを開いておくと暗号化して送り、スマホは起動時と表示中の約2秒ごとに確認します。自動同期は同じボタンで停止できます。
 
 すでに連携している方は、APKとPCツールを上書き更新してください。連携設定とスマホの記録を引き継げます。
 
