@@ -1,11 +1,11 @@
 # 星海の浜辺
 
-「Ploom RooM — 星海の窓辺」の魚、コイン、XP、探索隊をAndroidで見られます。
+「Ploom RooM — 星海の窓辺」の魚、コイン、XP、探索隊をAndroidで見られます。装備中の水槽に合わせて筐体の色と装飾が切り替わり、ホーム画面には泳いでいる魚が並びます。
 
 | 端末 | ダウンロード |
 | --- | --- |
-| Android 8.0以降 | [星海の浜辺 1.3.0 APK](https://raw.githubusercontent.com/L1ZeroX/star-sea-aquarium-vpm/main/seaside/StarSea-Seaside.apk) |
-| Windows | [PC同期ツール・APK・使い方 1.3.0 ZIP](https://raw.githubusercontent.com/L1ZeroX/star-sea-aquarium-vpm/main/seaside/StarSea-PC-Android.zip) |
+| Android 8.0以降 | [星海の浜辺 1.4.0 APK](https://raw.githubusercontent.com/L1ZeroX/star-sea-aquarium-vpm/main/seaside/StarSea-Seaside.apk) |
+| Windows | [PC同期ツール・APK・使い方 1.4.0 ZIP](https://raw.githubusercontent.com/L1ZeroX/star-sea-aquarium-vpm/main/seaside/StarSea-PC-Android.zip) |
 
 ## 外出先同期
 
