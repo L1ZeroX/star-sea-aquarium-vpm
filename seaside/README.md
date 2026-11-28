@@ -4,8 +4,8 @@
 
 | 端末 | ダウンロード |
 | --- | --- |
-| Android 8.0以降 | [星海の浜辺 1.4.0 APK](https://raw.githubusercontent.com/L1ZeroX/star-sea-aquarium-vpm/main/seaside/StarSea-Seaside.apk) |
-| Windows | [PC同期ツール・APK・使い方 1.4.0 ZIP](https://raw.githubusercontent.com/L1ZeroX/star-sea-aquarium-vpm/main/seaside/StarSea-PC-Android.zip) |
+| Android 8.0以降 | [星海の浜辺 1.5.0 APK](https://raw.githubusercontent.com/L1ZeroX/star-sea-aquarium-vpm/main/seaside/StarSea-Seaside.apk) |
+| Windows | [PC同期ツール・APK・使い方 1.5.0 ZIP](https://raw.githubusercontent.com/L1ZeroX/star-sea-aquarium-vpm/main/seaside/StarSea-PC-Android.zip) |
 
 ## 外出先同期
 
@@ -14,6 +14,14 @@
 3. PC版VRChatで更新済みのPloom RooMに入り、水槽の **引き継ぎ → スマホアプリ → 自動同期：オフ** を一度押してオンにします。入室時と進行の保存時に、自分の魚・残高・探索隊の閲覧用データがPCのVRChatログに書き出されます。PCツールを開いておくと暗号化して送り、スマホは起動時と表示中の約15秒ごとに確認します。自動同期は同じボタンで停止できます。
 
 すでに連携している方は、APKとPCツールを上書き更新してください。連携設定とスマホの記録を引き継げます。
+
+## スマホから水槽を操作
+
+1. 外出先同期で自分の記録を一度受信し、PCツールの「外出先同期」から「水槽の操作用URLをコピー」を押します。
+2. Ploom RooMの水槽で「引き継ぎ → スマホアプリ → スマホで操作」を開き、操作用URLを貼って「操作を開始」を押します。専用サーバーへの接続には、VRChatの「Allow Untrusted URLs（信頼されていないURLを許可）」をオンにします。
+3. PCでワールドと同期ツールを開いておくと、スマホの「操作」タブからえさやり、泳ぐ魚の入れ替え、探索隊の派遣・帰還報酬、ログイン報酬の受け取りができます。「まとめて受け取る」は受け取れる探索・ログイン・実績報酬を確認します。
+
+水槽からの結果がアプリに届くと操作が確定します。ワールドを出ると遠隔操作は終了します。操作用URLと連携QRは自分だけで使用してください。
 
 外出先同期はVPNやポート開放なしで利用できます。クラウドには暗号化した最新の1件を保存します。連携QRと連携コードは自分だけで使ってください。PCの外出先同期を停止するとクラウドの記録を削除できます。更新後90日でサーバーの読み取り期限が切れます。
 
